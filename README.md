@@ -1,4 +1,4 @@
-# flos
+# mywedding
 
 A new Flutter project.
 
